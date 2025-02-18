@@ -1,7 +1,8 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Demo 
-Explore the [project](https://e-store-nextjs.vercel.app/)
+Explore the [project](https://e-store-nextjs.vercel.app/).
+To use admin privileges sign up with username:admin and password:admin1
 
 ## Getting Started
 
