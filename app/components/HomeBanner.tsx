@@ -9,7 +9,7 @@ const HomeBanner = () => {
         {/* TEXT */}
         <div className="mb-8 md:mb-0 text-center">
           <h1 className="text-4xl md:text-6xl font-bold text-white mb-4">
-            Summer Sale
+            Winter Sale
           </h1>
           <p className="text-lg md:text-xl text-white mb-2">
             Enjoy discounts on selected items
@@ -19,7 +19,7 @@ const HomeBanner = () => {
           </p>
         </div>
         {/* IMAGE */}
-        <div className="w-1/3 relative aspect-video">
+        <div className="w-[15rem] lg:w-1/3 relative aspect-video">
           <Image
             src={banner}
             fill

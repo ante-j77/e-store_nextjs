@@ -19,7 +19,7 @@ const Categories = () => {
   return (
     <div className="bg-white">
       <Container>
-        <div className="pt-4 flex flex-row items-center justify-between overflow-x-auto">
+        <div className="pt-4 grid grid-cols-2 gap-2 md:flex md:flex-row items-center justify-between overflow-x-auto">
           <Suspense>
             {categories.map((item) => (
               <Category
