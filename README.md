@@ -3,7 +3,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 ## Demo 
 Explore the [project](https://e-store-nextjs.vercel.app/).
 
-To use admin privileges sign up with email:admin@gmail.com and password:admin1
+To use admin privileges sign up with email: admin@gmail.com and password: admin1
 
 ## Getting Started
 
